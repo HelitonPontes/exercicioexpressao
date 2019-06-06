@@ -1,0 +1,10 @@
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\bin\Debug\ExercicioExpressão.exe.config
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\bin\Debug\ExercicioExpressão.exe
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\bin\Debug\ExercicioExpressão.pdb
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\obj\Debug\ExercicioExpressão.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\obj\Debug\ExercicioExpressão.Form1.resources
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\obj\Debug\ExercicioExpressão.Properties.Resources.resources
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\obj\Debug\ExercicioExpressão.csproj.GenerateResource.cache
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\obj\Debug\ExercicioExpressão.csproj.CoreCompileInputs.cache
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\obj\Debug\ExercicioExpressão.exe
+C:\Users\Heliton\source\repos\ExercicioExpressão\ExercicioExpressão\obj\Debug\ExercicioExpressão.pdb
